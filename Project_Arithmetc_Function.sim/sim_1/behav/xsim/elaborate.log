@@ -1,0 +1,18 @@
+Vivado Simulator v2024.2.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_top_level_behav xil_defaultlib.tb_top_level xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 10 for port 'TwoAB' [D:/VLSI CAD LAB/Project_Arithmetc_Function/Project_Arithmetc_Function.srcs/sources_1/new/Part_1_trial_v1.v:22]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.A_plus_B_and_A_minus_B
+Compiling module xil_defaultlib.Aplus_minusB_three
+Compiling module xil_defaultlib.top_level
+Compiling module xil_defaultlib.tb_top_level
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_top_level_behav

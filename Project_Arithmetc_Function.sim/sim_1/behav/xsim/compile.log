@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VLSI CAD LAB/Project_Arithmetc_Function/Project_Arithmetc_Function.srcs/sources_1/new/Part_1_trial_v1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_level
+INFO: [VRFC 10-311] analyzing module A_plus_B_and_A_minus_B
+INFO: [VRFC 10-311] analyzing module Aplus_minusB_three
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VLSI CAD LAB/Project_Arithmetc_Function/Project_Arithmetc_Function.srcs/sim_1/new/tb_top_level.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top_level

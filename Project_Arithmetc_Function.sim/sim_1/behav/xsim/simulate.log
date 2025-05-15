@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+
+Test Case 1: A = 3, B = 4
+(A+B)^2: Expected 49, Got   49
+(A-B)^2: Expected 1, Got    1
+(A+B)^3: Expected 343, Got   343
+(A-B)^3: Expected -1 (unsigned 32767), Got 32767
+
+Test Case 2: A = 15, B = 15
+(A+B)^2: Expected 900, Got  900
+(A-B)^2: Expected 0, Got    0
+(A+B)^3: Expected 27000, Got 27000
+(A-B)^3: Expected 0, Got     0
+
+Test Case 3: Edge Case A = 0, B = 0
+(A+B)^2: Expected 0, Got    0
+(A-B)^2: Expected 0, Got    0

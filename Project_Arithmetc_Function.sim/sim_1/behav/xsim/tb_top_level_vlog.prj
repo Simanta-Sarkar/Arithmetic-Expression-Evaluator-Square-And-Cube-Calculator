@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Project_Arithmetc_Function.srcs/sources_1/new/Part_1_trial_v1.v" \
+"../../../../Project_Arithmetc_Function.srcs/sim_1/new/tb_top_level.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
